@@ -1,0 +1,4 @@
+Shuhao Lai
+slai16
+
+In my program, I split the cTree files into a header and source file because the function definitions exceeded a couple lines. I followed a similar procedure for making my tTree files. Additionally, when I was dealing with recursive calls, I defined a helper function to make my code more readable and easy to debug. Futher, I focused a lot of readable code as this project required a lot of debugging. Overall, I enjoyed this project but getting the destructor working was a little tricky. 
